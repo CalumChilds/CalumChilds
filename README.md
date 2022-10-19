@@ -2,9 +2,6 @@
   <a href="https://learn.microsoft.com/en-us/windows/">
         <img src="https://img.shields.io/badge/Os-Windows-informational?style=flat&logo=windows&logoColor=white"
             alt="Check out Windows"></a>  
-    <a href="https://code.visualstudio.com/docs">
-        <img src="https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=VisualStudioCode&logoColor=white"
-            alt="Check out VS Code Docs"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
         <img src="https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=Javascript&logoColor=white"
             alt="Check out Javascript Docs"></a>
@@ -20,7 +17,7 @@
    <a href="https://www.figma.com/">
         <img src="https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=Figma&logoColor=white"
             alt="Check out Figma"></a>
-   <a href="https://www.linkedin.com/in/aaron-riley-b2b686178/">
+   <a href="https://www.linkedin.com/in/calum-childs-971069171/">
         <img src="https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=LinkedIn&logoColor=white"
             alt="reach me on LinkedIn"></a>
      <a href="https://docs.aws.amazon.com/">
